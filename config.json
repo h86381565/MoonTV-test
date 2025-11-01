@@ -1,24 +1,24 @@
 {
-  “缓存时间”：7200，"cache_time": 7200,
-  “api_站点”：{"api_site": {
-   迪特齐：{
+  “缓存时间”：7200，"cache_time": 7200,7200，"cache_time": 7200,
+  “api_站点”：{"api_site": {{"api_site": {
+   迪特齐：{{
         api : 'http://caiji.dyttzyapi.com/api.php/provide/vod' ,
         name : '电影天堂资源' ,
         详细信息：'http://caiji.dyttzyapi.com'，
-    } ,
-    如意：{
+    } ,} ,
+    如意：{{
         api : 'https://cj.rycjapi.com/api.php/provide/vod' ,
         name : '如意资源' ,
-    } ,
-    bfzy：{
+    } ,} ,
+    bfzy：{{
         api : 'https://bfzyapi.com/api.php/provide/vod' ,
         name : '暴风资源' ,
-    } ,
-    泰西：{
+    } ,} ,
+    泰西：{{
         api : 'https://tyyszy.com/api.php/provide/vod' ,
         name : '天涯资源' ,
-    } ,
-    小毛米: {
+    } ,} ,
+    小毛米: {{
         api : 'https://zy.xmm.hk/api.php/provide/vod' ,
         name : '小猫咪资源' ,
     } ,
@@ -29,7 +29,7 @@
     } ,
     海穆尔：{
         api : 'https://json.heimuer.xyz/api.php/provide/vod' ,
-        name : '黑木耳' ,
+        name : '黑木耳',
         详细信息：'https://heimuer.tv'，
     } ,
     zy360：{
@@ -93,6 +93,12 @@
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
+testSource: {
+api: 'https://www.example.com/api.php/provide/vod',
+name: '空内容测试源',
+adult: true
+    },
     }
-  }
-}
+};
+
+// 定义合并方法
