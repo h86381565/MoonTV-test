@@ -1,24 +1,24 @@
 {
-  “缓存时间”：7200，
+  “cache_time”：7200，
   “api_站点”：{
-       "迪特齐"：{  
+    "迪特齐"：{  
          “api”：“http://caiji.dyttzyapi.com/api.php/provide/vod”，
          "name" : "电影天堂资源" ,
          “详情”：“http://caiji.dyttzyapi.com”
     } ,
-         "如意"：{  
+      "如意"：{  
          “api”：“https://cj.rycjapi.com/api.php/provide/vod”，
          "name" : "如意资源" 
     } ,
-        “bfzy”：{ 
+      “bfzy”：{ 
         “api”：“https://bfzyapi.com/api.php/provide/vod”，
         "name" : "暴风资源" 
     } ,
-        "泰西"：{  
+      "泰西"：{  
         “api”：“https://tyyszy.com/api.php/provide/vod”，
         "name" : "天涯资源" 
     } ,
-       "小毛米" : { 
+      "小毛米"：{ 
         “api”：“https://zy.xmm.hk/api.php/provide/vod”，
         "name" : "小猫咪资源" ,
     } ,
@@ -32,7 +32,7 @@
         "name" : "黑木耳" ,
         "详细信息"："https://heimuer.tv"
     } ,
-        “360度”：{
+        “ 360度”：{
         "api" : "https://360 zy.com/api.php/provide/vod', 360 zy.com/api.php/provide/vod" ,
         "name": "360资源"
     },
