@@ -1,5 +1,5 @@
 {
-  “cache_time”：7200，
+  “缓存时间”：7200，
   “api_站点”：{
     "迪特齐"：{  
          “api”：“http://caiji.dyttzyapi.com/api.php/provide/vod”，
@@ -93,5 +93,5 @@
         "api": "https://cj.lziapi.com/api.php/provide/vod/",
         "name": "量子资源站"
    }
-  }
+ }
 }
