@@ -1,18 +1,18 @@
 {
   "cache_time": 7200,
   "api_site": {
-       迪特齐：{  
-         api : 'http://caiji.dyttzyapi.com/api.php/provide/vod' ,
-         name : '电影天堂资源' ,
-         详细信息：'http://caiji.dyttzyapi.com'，
+       "迪特齐"：{  
+         "api" : "http://caiji.dyttzyapi.com/api.php/provide/vod" ,
+         "name" : "电影天堂资源" ,
+         "详细信息"："http://caiji.dyttzyapi.com"，
     } ,
-         如意：{  
-         api : 'https://cj.rycjapi.com/api.php/provide/vod' ,
-         name : '如意资源' ,
+         "如意"：{  
+         "api" : "https://cj.rycjapi.com/api.php/provide/vod" ,
+         "name" : "如意资源" ,
     } , 
-        bfzy：{ 
-        api : 'https://bfzyapi.com/api.php/provide/vod' ,
-        name : '暴风资源' ,
+        "bfzy"：{ 
+        "api" : "https://bfzyapi.com/api.php/provide/vod" ,
+        "name" : "暴风资源" ,
     } , 
         泰西：{  
         api : 'https://tyyszy.com/api.php/provide/vod' ,
