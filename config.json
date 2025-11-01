@@ -1,39 +1,39 @@
 {
-  "cache_time": 7200,
-  "api_site": {
-    "dyttzy": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂",
-      "detail": "http://caiji.dyttzyapi.com"
-    },
-    "ruyi": {
-      "api": "http://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源"
-    },
-    "bfzy": {
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "name": "暴风资源"
-    },
-    "tyyszy": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
-    },
-    "ffzy": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
-      "detail": "http://ffzy5.tv"
-    },
-    "zy360": {
-      "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360资源"
-    },
-    "maotaizy": {
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "name": "茅台资源"
-    },
-    "wolong": {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "name": "卧龙资源"
+  “缓存时间”：7200，
+  “api_站点”：{
+    “迪特兹”：{
+      “api”：“http://caiji.dyttzyapi.com/api.php/provide/vod”，
+      "名称" : "电影天堂" ,
+      “详细信息”：“http://caiji.dyttzyapi.com”
+    } ,
+    “如意”：{
+      “api”：“http://cj.rycjapi.com/api.php/provide/vod”，
+      "name" : "如意资源"
+    } ,
+    “bfzy”：{
+      “api”：“https://bfzyapi.com/api.php/provide/vod”，
+      "name" : "暴风资源"
+    } ,
+    “tyyszy”：{
+      “api”：“https://tyyszy.com/api.php/provide/vod”，
+      "name" : "天涯资源"
+    } ,
+    “ffzy”：{
+      “api”：“http://ffzy5.tv/api.php/provide/vod”，
+      "name" : "非凡影视" ,
+      “详细信息”：“http://ffzy5.tv”
+    } ,
+    “zy360”：{
+      “api”：“https://360zy.com/api.php/provide/vod”，
+      “名称”：“360资源”
+    } ,
+    “毛太子”：{
+      "api" : "https://caiji.maotaizy.cc/api.php/provide/vod" ,
+      "name" : "茅台资源"
+    } ,
+    “卧龙”：{
+      “api”：“https://wolongzyw.com/api.php/provide/vod”，
+      "name" : "卧龙资源"
     },
     "jisu": {
       "api": "https://jszyapi.com/api.php/provide/vod",
@@ -79,6 +79,10 @@
     "bdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度资源"
+    },
+    "xiaomaomi": {
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "name": "小猫咪资源"
     }
   }
 }
