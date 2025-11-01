@@ -1,6 +1,6 @@
 {
-  “ 缓存时间”：7200，"cache_time" : 7200 , 7200，"cache_time" : 7200 ,
-  “api_站点”：{  "api_site" : {  {  "api_site" : {
+  "cache_time": 7200,
+  "api_site": {
    迪特齐：{  {
         api : 'http://caiji.dyttzyapi.com/api.php/provide/vod' ,
         name : '电影天堂资源' ,
